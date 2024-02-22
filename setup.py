@@ -9,7 +9,7 @@ setup(
     description='EDSA example python pachage',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='',
+    url='https://github.com/YaseenTheAnalyst/mypackage',
     author='Mahmoud Yaseen',
     author_email='mahmoudyaseen34@gmail.com'
 
